@@ -1,2 +1,5 @@
 # hello-word
-just a piece of nothing
+
+hi people!
+
+i´m doing it :). My faborite drink is simple water.
